@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://80.0.0.59:3306/collect_config?characterEncoding=utf-8
+    username: root
+    password: msstar
+
+
